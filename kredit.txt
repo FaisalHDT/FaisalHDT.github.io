@@ -1,4 +1,5 @@
 backsound :http://soundimage.org/horrorsurreal/
+sound lompat,jalan,koin,mati : faisal
 platform : faisal
 background : ari
 player dan musuh : fathurriadi
